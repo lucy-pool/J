@@ -1,7 +1,1 @@
-{
-  "name": "Lucy_Pool",
-  "ticker": "LUCY",
-  "description": "A pool for cat lovers!",
-  "homepage": "https://lucy-pool.github.io/",
-  "nonce": "1610889434"
-}
+{"name":"Lucy_Pool","ticker":"LUCY","description":"A pool for cat lovers!","homepage":"https://lucy-pool.github.io/","nonce":"1610889434"}
